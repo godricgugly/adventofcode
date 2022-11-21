@@ -1,1 +1,1 @@
-
+I used advent of code to learn programming from scratch. The solutions from 2021 are uploaded as they were when I first solved them, they have not been refactored; since the intention is to showcast my learning proccess.
