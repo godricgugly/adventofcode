@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Mar 17 21:44:16 2022
-
-@author: vant
-"""
 #opens input as stings in a list
 with open ("puzzle11") as file:
     potatoe=[line.strip() for line in file]

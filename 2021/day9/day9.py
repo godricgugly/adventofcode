@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  6 18:56:49 2022
-
-@author: vant
-"""
 
 #with open ("test9.1") as file:
 #    potatoe=[line.strip() for line in file]
